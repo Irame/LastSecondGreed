@@ -1,0 +1,10 @@
+## Title: |cff224477Lib:|r LibStub
+## Notes: LibStub is a simple versioning stub meant for use in Libraries.
+##
+## Interface: 30300
+##
+## Version: 1.2
+## Author: Kaelten, Cladhaire, ckknight, Mikk, Ammo, Nevcairiel, joshborke
+##
+
+LibStub.lua
